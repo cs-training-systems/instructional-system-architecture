@@ -1,7 +1,3 @@
-Disclaimer: This repository contains only generic, sanitized instructional systems and examples. No classified, controlled, or proprietary materials are included. 
-All contents are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en). 
-
-
 # ISD Decision Architecture Project
 **Project Type:** Computational Ontology & Decision Support Framework
 **Phase:** I - Taxonomic Discovery & Primitive Mapping
@@ -26,3 +22,14 @@ We use a **Configuration-Audit** approach to outcome engineering. By mapping the
 
 ## Learning in Public (Iterative Disclosure)
 This repository functions as a **Live-State Technical Lab**. We believe that documenting the "messy" process of ontological discovery is as valuable as the final toolset, as it provides a transparent audit trail for the logic used in our more streamlined implementations.
+
+---
+
+## Compliance & Legal
+
+### Security Disclosure
+**Disclaimer:** This repository contains only generic, sanitized instructional systems and examples. No classified, controlled, or proprietary materials are included. 
+
+### Licensing
+All contents are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+*For inquiries regarding proprietary implementations or commercial use, please contact the repository owner.*
